@@ -22,8 +22,8 @@
 
     <string name="reboot_required">Mudanças serão aplicadas após reiniciar o dispositivo.</string>
 
-    <string name="poweroff_advanced_title">Menu de Desligar avançado</string>
-    <string name="poweroff_advanced_summary">Adiciona opções para reiniciar em modo de recuperação ao menu de desligar</string>
+    <string name="poweroff_advanced_title">Menu Desligar Avançado</string>
+    <string name="poweroff_advanced_summary">Adiciona opções para reiniciar em modo de recuperação ao menu desligar</string>
     <string name="poweroff_recovery">Recuperação</string>
     <string name="poweroff_bootloader">Bootloader</string>
 
@@ -87,7 +87,7 @@
     <string name="qs_tile_quickrecord">Gravação rápida</string>
     <string name="qs_tile_settings">Configurações</string>
     <string name="qs_tile_volume">Volume</string>
-    <string name="qs_tile_expanded_desktop">Ambiente de trabalho expandido</string>
+    <string name="qs_tile_expanded_desktop">Área de trabalho expandido</string>
     <string name="qs_tile_stay_awake">Manter ligado</string>
     <string name="qs_tile_screenshot">Captura de tela</string>
     <string name="qs_tile_nfc">NFC</string>
@@ -126,11 +126,11 @@
 
     <!-- Engineering mode shortcut -->
     <string name="engineering_mode_title">Modo Engenharia</string>
-    <string name="engineering_mode_summary">Roda o aplicativo Modo Engenharia</string>
+    <string name="engineering_mode_summary">Executa o aplicativo Modo Engenharia</string>
 
     <!-- Dual SIM ringer -->
     <string name="dual_sim_ringer_title">Toques para cada SIM</string>
-    <string name="dual_sim_ringer_summary">Roda o aplicativo que permite configurar sons de toque e notificações específicas para cada cartão SIM</string>
+    <string name="dual_sim_ringer_summary">Executa o aplicativo que permite configurar sons de toque e notificações específicas para cada cartão SIM</string>
 
     <!-- Lockscreen tweaks -->
     <string name="pref_cat_lockscreen_title">Ajustes da tela de bloqueio</string>
@@ -191,7 +191,7 @@
     <string name="pref_lockscreen_menu_key_summary">Permite que a tecla de Menu seja usada para um desbloqueio rápido da tela de bloqueio (necessário reiniciar)</string>
 
     <!-- Statusbar center clock -->
-    <string name="pref_statusbar_center_clock_title">Centrar relógio</string>
+    <string name="pref_statusbar_center_clock_title">Centralizar relógio</string>
 
     <!-- Media tweaks category -->
     <string name="pref_cat_media_title">Ajustes multimédia</string>
@@ -277,11 +277,11 @@
     <string name="pref_cat_statusbar_colors_title">Cores da Barra de Status</string>
 
     <!-- Enable icon colors -->
-    <string name="pref_statusbar_icon_color_enable_title">Habilitar coloração dos ícones</string>
+    <string name="pref_statusbar_icon_color_enable_title">Habilitar cores dos ícones</string>
 
     <!-- Statusbar icon color -->
-    <string name="pref_statusbar_icon_color_title">Cor dos icones da barra de status</string>
-    <string name="pref_statusbar_icon_color_summary">Define cor para os icones da barra de status e relógio</string>
+    <string name="pref_statusbar_icon_color_title">Cor dos ícones da barra de status</string>
+    <string name="pref_statusbar_icon_color_summary">Define cor para os ícones da barra de status e relógio</string>
 
     <!-- Statusbar data activity color -->
     <string name="pref_statusbar_data_activity_color_title">Cor de atividade de Dados</string>
@@ -317,7 +317,7 @@
 
     <!-- Phone status in pie controls -->
     <string name="pie_phone_status_no_service">Fora de serviço</string>
-    <string name="pie_phone_status_airplane_mode">Modo de avião ativado</string>
+    <string name="pie_phone_status_airplane_mode">Modo avião ativado</string>
     <string name="pie_phone_status_emergency_only">Apenas chamadas de emergência</string>
 
     <!-- Pie Controls settings -->
@@ -325,10 +325,10 @@
     <string name="pie_control_enable_title">Ativar controles circulares (Pie)</string>
     <string name="pie_control_size_title">Dimensão dos botões de navegação</string>
     <string name="pie_control_trigger_positions_title">Posições de ativação</string>
-    <string name="pie_control_trigger_left">Borda esquerda do ecrã</string>
-    <string name="pie_control_trigger_bottom">Borda inferior do ecrã</string>
-    <string name="pie_control_trigger_right">Borda direita do ecrã</string>
-    <string name="pie_control_trigger_top">Borda superior do ecrã</string>
+    <string name="pie_control_trigger_left">Borda esquerda da tela</string>
+    <string name="pie_control_trigger_bottom">Borda inferior da tela</string>
+    <string name="pie_control_trigger_right">Borda direita da tela</string>
+    <string name="pie_control_trigger_top">Borda superior da tela</string>
 
     <!-- Button backlight options -->
     <string name="pref_button_backlight_mode_title">Modo de luz de fundo</string>
@@ -1090,7 +1090,7 @@
     <!-- Launcher tweaks: resize any widget -->
     <string name="pref_cat_launcher_other_title">Outros</string>
     <string name="pref_launcher_resize_widget_title">Redimensionar qualquer widget</string>
-    <string name="pref_launcher_resize_widget_summary">Permite redimensionar qualquer tipo de widget para qualquer tamanho no ambiente de trabalho (necessário reiniciar o inicializador)</string>
+    <string name="pref_launcher_resize_widget_summary">Permite redimensionar qualquer tipo de widget para qualquer tamanho na área de trabalho (necessário reiniciar o inicializador)</string>
 
     <!-- Icon picker -->
     <string name="icon_picker_choose_icon_title">Escolha um ícone</string>
@@ -1319,10 +1319,10 @@
     <string name="lc_item_summary_on">Ligado</string>
     <string name="lc_item_summary_off">Desligado</string>
     <string name="lc_item_summary_ongoing">Em andamento</string>
-    <string name="lc_preview_notif_title">Controlo de notificações GravityBox</string>
+    <string name="lc_preview_notif_title">Controle de notificações GravityBox</string>
     <string name="lc_preview_notif_text">Testar durante %s</string>
     <string name="lc_activity_menu_show_all">Mostrar todos os aplicativos</string>
-    <string name="lc_activity_menu_show_active">Mostrar aplicativos com controlo ativado</string>
+    <string name="lc_activity_menu_show_active">Mostrar aplicativos com controle ativado</string>
     <string name="pref_cat_lc_lights_title">Avisos luminosos</string>
     <string name="pref_cat_lc_other_title">Outras definições</string>
     <string name="pref_cat_lc_sounds_title">Avisos sonoros</string>
@@ -1372,8 +1372,8 @@
     <string name="lc_active_screen">Tela ligada</string>
     <string name="lc_active_screen_info">Esta funcionalidade permite que a tela se ligue automaticamente sempre que uma nova
         notificação ocorra. Tal apenas acontecerá caso a tela não esteja coberto (por exemplo, quando o dispositivo está no bolso). 
-        Opcionalmente, poderá permitir também a expansão do painel de notificações ou a amostragem de notificações flutuantes (Heads up), dependendo da política de segurança do ecrã de 
-        bloqueio e das preferências do usuário. De notar que esta funcionalidade requer que o bloqueio de ecrã esteja ativado.\n\nO
+        Opcionalmente, poderá permitir também a expansão do painel de notificações ou a amostragem de notificações flutuantes (Heads up), dependendo da política de segurança datela de 
+        bloqueio e das preferências do usuário. De notar que esta funcionalidade requer que o bloqueio de tela esteja ativado.\n\nO
         interruptor permite a ativação global da funcionalidade. Depois de ativar, as configurações poderão ser efetuadas por aplicativo.</string>
     <string name="lc_active_screen_switch_title">Ativar Tela ligada</string>
     <string name="lc_expand_notification_panel_title">Expandir painel de notificações</string>
@@ -1539,7 +1539,7 @@
 
     <!-- Pie: center trigger -->
     <string name="pref_pie_control_center_trigger_title">Ativação ao centro</string>
-    <string name="pref_pie_control_center_trigger_summary">Permite ativar os controlos Pie apenas quando se desliza a partir do centro da borda da tela</string>
+    <string name="pref_pie_control_center_trigger_summary">Permite ativar os controles Pie apenas quando se desliza a partir do centro da borda da tela</string>
 
     <!-- Statusbar clock: date format options -->
     <string name="clock_date_disabled">Desativado</string>
@@ -1584,7 +1584,7 @@
     <!-- Statusbar: notification heads up category -->
     <string name="pref_cat_notif_heads_up_title">Notificações flutuantes (Heads up)</string>
     <string name="pref_heads_up_master_switch_summary">Permite ativar a funcionalidade nativa de notificações flutuantes. 
-        Após ativação, ficam disponíveis mais opções a definir por aplicativo no Controlo de notificações (necessário reiniciar).</string>
+        Após ativação, ficam disponíveis mais opções a definir por aplicativo no Controle de notificações (necessário reiniciar).</string>
     <string name="pref_heads_up_one_finger_title">Expandir com um dedo</string>
     <string name="pref_heads_up_timeout_title">Temporização</string>
     <string name="pref_heads_up_timeout_summary">Permite definir por quanto tempo deverá ser mostrada a janela da notificação (0 = persistente)</string>
@@ -1602,7 +1602,7 @@
     <!-- UNC Active Screen Mode -->
     <string name="pref_lc_active_screen_mode_title">Modo Tela ativo</string>
     <string name="lc_active_screen_mode_disabled">Desativado</string>
-    <string name="lc_active_screen_mode_nothing">Ligar tela unicamente</string>
+    <string name="lc_active_screen_mode_nothing">Ligar apenas a tela</string>
     <string name="lc_active_screen_mode_expand">@string/lc_expand_notification_panel_title</string>
     <string name="lc_active_screen_mode_headsup">@string/pref_cat_lc_heads_up_title</string>
 
@@ -1647,7 +1647,7 @@
 
     <!-- Fake ID patch -->
     <string name="pref_patch_fake_id_title">Corrigir vulnerabilidade "Fake ID"</string>
-    <string name="pref_patch_fake_id_summary">Notar que os aplicativos para verificação de segurança não são capazes de detectar se a correção feita pelo GravityBox produziu efeito, 
+    <string name="pref_patch_fake_id_summary">Nota que os aplicativos para verificação de segurança não são capazes de detectar se a correção feita pelo GravityBox produziu efeito, 
         reportando o sistema como vulnerável, mesmo não sendo o caso (necessário reiniciar)</string>
 
     <!-- MTK tiles: Audio profile -->
